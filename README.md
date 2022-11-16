@@ -1,5 +1,5 @@
 # Slicer-Profiles
-First and foremost, I recommend everyone to talk a close look at [Ellis' print tuning guide]([https://www.google.com](https://github.com/AndrewEllis93/Print-Tuning-Guide). You can have the best profile on the planet, but if your printer isn't properly tuned, you won't get really far.
+First and foremost, I recommend everyone to talk a close look at [Ellis' print tuning guide]([https://github.com/AndrewEllis93/Print-Tuning-Guide]). You can have the best profile on the planet, but if your printer isn't properly tuned, you won't get really far.
 
 ##Regarding my profiles:
 There are 2 things I absolutely love around 3D Printing. 
